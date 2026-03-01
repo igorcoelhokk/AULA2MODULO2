@@ -1,0 +1,27 @@
+{
+  "name": "aula2modulo2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "HTTP"
+  ],
+  "homepage": "https://github.com/igorcoelhokk/AULA2MODULO2#readme",
+  "bugs": {
+    "url": "https://github.com/igorcoelhokk/AULA2MODULO2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcoelhokk/AULA2MODULO2.git"
+  },
+  "license": "ISC",
+  "author": "Igor Gabriel Coelho",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
